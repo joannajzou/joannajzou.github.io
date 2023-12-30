@@ -13069,7 +13069,7 @@ ul {
 img {
   border-radius: 5px;
   border: 1px solid #dbdbdb;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
+  box-shadow: none; }
 
 hr {
   background-color: #dbdbdb;
@@ -13102,7 +13102,7 @@ details[open] summary {
 
 .img-responsive {
   border-radius: 5px;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
+  box-shadow: none; }
 
 .avatar {
   border: none; }
@@ -23339,7 +23339,7 @@ readers do not read off random characters that represent icons */
   img {
     border-radius: 5px;
     border: 1px solid #efefef;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
+    box-shadow: none; }
   hr {
     background-color: #efefef;
     height: 1px; }
@@ -23363,7 +23363,7 @@ readers do not read off random characters that represent icons */
     display: none; }
   .img-responsive {
     border-radius: 5px;
-    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
+    box-shadow: none; }
   .avatar {
     border: none; } }
   @media screen and (prefers-color-scheme: dark) and (max-width: 768px) {
