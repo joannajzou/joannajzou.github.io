@@ -255,7 +255,7 @@ a {
   a strong {
     color: currentColor; }
   a:hover {
-    color: #000000; }
+    color: #1687b8; }
 
 code {
   background-color: transparent;
@@ -13049,7 +13049,7 @@ html.modal-open {
 a {
   color: #00b8d4; }
   a:hover {
-    color: #000000;
+    color: #1687b8;
     font-style: none; }
   a:active {
     color: #00b8d4; }
@@ -13214,11 +13214,11 @@ details[open] summary {
       font-size: 1.5rem;
       margin-right: 1rem; } }
 .card {
-  background-color: transparent;
+  background-color: white;
   box-shadow: none; }
 
 .card-content {
-  font-size: 1.5rem; }
+  font-size: 2rem; }
 
 .has-content-centered {
   justify-content: center; }
@@ -13332,10 +13332,13 @@ details[open] summary {
     font-size: 0.8rem; }
 
 .modal-background {
-  background-color: rgba(255, 255, 255, 0.9); }
+  background-color: rgba(255, 255, 255, 0.95); }
 
 .modal-close {
-  background-color: #000000; }
+  background-color: #b8b8b8; }
+
+.modal-content {
+  width: 1000px; }
 
 @media (prefers-color-scheme: dark) {
   /* vietnamese */
@@ -23460,10 +23463,10 @@ readers do not read off random characters that represent icons */
       margin-right: 1rem; } }
 @media (prefers-color-scheme: dark) {
   .card {
-    background-color: transparent;
+    background-color: white;
     box-shadow: none; }
   .card-content {
-    font-size: 1.5rem; }
+    font-size: 2rem; }
   .has-content-centered {
     justify-content: center; }
   .markdown {

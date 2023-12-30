@@ -14,4 +14,4 @@ My research lies at the intersection of **stochastic modeling and statistical in
 * <span style="color:orange">Small Data Problems:</span> How can first-principles physics be leveraged in extrapolatory settings, or in applications where data is sparse? 
 * <span style="color:orange">Stochastic Dynamics:</span> How can we approach statistical inference by drawing inspiration from stochastic dynamical systems?
 
-As an engineer and researcher, I am motivated to advance climate and energy resilience, human health and well-being, and education equity through my work. 
+Through my work, I am passionate about climate and energy resilience, human health and well-being, and education equity. 
