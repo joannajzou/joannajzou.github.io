@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joanna Zou</title>
+    <link>/</link>
+    <description>Recent content on Joanna Zou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayesian modeling in machine learning-driven atomistic simulation</title>
+      <link>/projects/cesmix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/cesmix/</guid>
+      <description>We advance the state-of-art in predictive simulation of materials, using a multi-scale approach of bridging quantum, atomistic, and continuum scales by means of modern statistical inference and uncertainty quantification techniques. Repository The Center for the Exascale Simulation of Materials in Extreme Environments (CESMIX) seeks to advance the state-of-the-art in predictive simulation by connecting quantum and molecular simulations of materials with state-of-the-art programming languages, compiler technologies, and software performance engineering tools, underpinned by rigorous approaches to statistical inference and uncertainty quantification.</description>
+    </item>
+    <item>
+      <title>Gaussian process latent force models for virtual sensing</title>
+      <link>/projects/windturbine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/windturbine/</guid>
+      <description>We show that a Bayesian filtering technique which probabilistically models unknown inputs of a dynamical system can be used to efficiently estimate critical states of in-situ structures, paving a way for improved structural health monitoring and performance-based design of offshore wind turbines. References&#xA;J. Zou, E. Lourens, A. Cicirello. &amp;ldquo;Virtual sensing of subsoil strain response in monopile-based offshore wind turbines via Gaussian process latent force models.&amp;rdquo; Mechanical Systems &amp;amp; Signal Processing.</description>
+    </item>
+    <item>
+      <title>Stochastic kriging for nonlinear seismic response estimation</title>
+      <link>/projects/seismic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/seismic/</guid>
+      <description>We show that a surrogate model for the seismic response of civil infrastructure reduces computational cost of regional-level earthquake simulation while also incorporating additional uncertainty information in seismic risk analysis arising from variability in ground motion loading. References&#xA;J. Zou, D. P. Welch, A. Zsarnoczay, A. Taflanidis, G. Deierlein. &amp;ldquo;Surrogate Modeling for the Seismic Response Estimation of Residential Wood Frame Structures.&amp;rdquo; 17th World Conference in Earthquake Engineering. Sendai, Japan. 2020.</description>
+    </item>
+    <item>
+      <title>Seismic risk analysis leveraging high performance computing</title>
+      <link>/projects/pbee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/pbee/</guid>
+      <description>We develop the most comprehensive natural hazards simulation software to-date, utilizing machine learning, high performance computing, and uncertainty quantification techniques to evaluate urban infrastructure risk to earthquake and tsunami disasters. Repository The NHERI Computational Modeling and Simulation Center (SimCenter) is an NSF-sponsored project developing extensible scientific workflows for quantifying the effect of natural hazards on infrastructure, lifelines, and communities. The software suite enables large-scale simulation of natural hazards, including earthquake, hurricane, and storm surge events, and the resulting impact and damages to physical infrastructure.</description>
+    </item>
+  </channel>
+</rss>

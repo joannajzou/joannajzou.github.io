@@ -2,7 +2,7 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'Joanna Zou'
 theme = 'introduction'
-
+publishDir = 'docs'
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
