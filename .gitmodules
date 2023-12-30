@@ -1,0 +1,3 @@
+[submodule "root/themes/introduction"]
+	path = root/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
