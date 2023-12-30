@@ -1,7 +1,6 @@
 ---
 title: "Seismic risk analysis leveraging high performance computing" # Title of your project
 weight: 4 # Order in which to show this project on the home page
-external_link: "projects/seismic-risk" # Optional external link instead of modal
 resources:
     - src: pbee0.png
 ---
