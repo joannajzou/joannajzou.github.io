@@ -3,8 +3,11 @@ title: "Talks"
 weight: 10
 ---
 
+**“Cairn.jl: enhanced molecular dynamics for active learning.”** <span style="color:orange">\[NEW\]</span>  
+JuliaCon 2024
+Eindhoven, Netherlands (2024) 
 
-**“Active learning of energy-based models by stochastic Stein variational gradient descent.”** <span style="color:orange">\[NEW\]</span>  
+**“Active learning of energy-based models by stochastic Stein variational gradient descent.”** 
 Society for Industrial and Applied Mathematics Conference on Uncertainty Quantification (SIAM UQ)  
 Trieste, Italy (2024)
 

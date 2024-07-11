@@ -12,7 +12,8 @@ weight: 15
 
 #### Past Appointments
 
-**Graduate Student Intern**, Sandia National Laboratories (2023)  
+**Visiting Research Fellow**, SFB 1294 Center for Data Assimilation, University of Potsdam (2024)  
+**Graduate Intern**, Sandia National Laboratories (2023)  
 **Fulbright Research Fellow**, TU Delft (2021)  
 **NHERI SimCenter Research Associate**, Stanford / UC Berkeley (2020)  
 **Advanced Technology & Research Intern**, Arup (2018)  
