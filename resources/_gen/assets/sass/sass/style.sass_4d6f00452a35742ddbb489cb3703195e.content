@@ -1724,7 +1724,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     display: flex; }
 
 .modal-background {
-  background-color: rgba(10, 10, 10, 0.86); }
+  background-color: #0a0a0a; }
 
 .modal-content,
 .modal-card {
@@ -1738,7 +1738,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
     .modal-card {
       margin: 0 auto;
       max-height: calc(100vh - 40px);
-      width: 640px; } }
+      width: 1000px; } }
 .modal-close {
   background: none;
   height: 40px;
@@ -14827,7 +14827,7 @@ details[open] summary {
     .modal.is-active {
       display: flex; }
   .modal-background {
-    background-color: rgba(10, 10, 10, 0.86); }
+    background-color: #0a0a0a; }
   .modal-content,
   .modal-card {
     margin: 0 20px;
@@ -14840,7 +14840,7 @@ details[open] summary {
     .modal-card {
       margin: 0 auto;
       max-height: calc(100vh - 40px);
-      width: 640px; } }
+      width: 1000px; } }
 @media (prefers-color-scheme: dark) {
   .modal-close {
     background: none;

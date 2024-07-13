@@ -10,7 +10,7 @@ weight: 15
 **M.S. in Structural Engineering**, Stanford University (2018-2020)  
 **B.S. in Civil Engineering**, Columbia University (2014-2018)
 
-#### Past Appointments
+#### Appointments
 
 **Visiting Research Fellow**, SFB 1294 Center for Data Assimilation, University of Potsdam (2024)  
 **Graduate Intern**, Sandia National Laboratories (2023)  
