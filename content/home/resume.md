@@ -12,9 +12,9 @@ weight: 15
 
 #### Appointments
 
-**Visiting Research Fellow**, SFB 1294 Center for Data Assimilation, University of Potsdam (2024)  
+**Visiting Research Fellow**, Dept. of Mathematics, University of Potsdam (2024)  
 **Graduate Intern**, Sandia National Laboratories (2023)  
-**Fulbright Research Fellow**, TU Delft (2021)  
+**Fulbright Research Fellow**, Dept. of Civil Engineering, TU Delft (2021)  
 **NHERI SimCenter Research Associate**, Stanford / UC Berkeley (2020)  
 **Advanced Technology & Research Intern**, Arup (2018)  
 
