@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joanna Zou – Heteroscedastic Gaussian Process Surrogate Modeling</title>
-    <link>https://example.org/projects/seismic/</link>
+    <link>https://joannajzou.github.io/projects/seismic/</link>
     <description>Recent content in Heteroscedastic Gaussian Process Surrogate Modeling on Joanna Zou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://example.org/projects/seismic/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://joannajzou.github.io/projects/seismic/index.xml" rel="self" type="application/rss+xml" />
     
     
       

@@ -15,7 +15,7 @@ title = 'Image Segmentation for Land Use Classification'
 Information on crop distributions early in the growing season can help predict food shortages or surpluses, particularly in agricultural regions where ground-based crop data is sparse. We develop a neural network model which performs image segmentation of satellite imagery for the task of early season crop classification. Since models trained on spectral satellite imagery are hindered by cloud cover and atomistic variability, especially during early-season planting periods, we assess the efficacy of using exclusively **Sentinel-1 synthetic aperture radar (SAR) data**. We implement a **U-Net model** for the image segmentation task, where the contracting path extracts spatial context via convolution and pooling layers while the expansion path usamples and merges this context to produce full-size image predictions. The model is trained on 256x256 pixel patches, each with 3 image bands, of satellite imagery data obtained with Google Earth Engine, and model predictions across 12 classes of crop types are validated using labels from the USDA Cropland Data Layer.
 
 
-<img src="unet_updated.png" alt="drawing" width="850"/>
+<img src="unet_updated.png" alt="drawing" width="750"/>
 
 <center>
 <sub><sup> Diagram of the custom U-Net architecture for early season crop classification from satellite radar imagery. </sup></sub>

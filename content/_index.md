@@ -23,13 +23,13 @@ width: full
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx-mt-6 hx-mb-12">
+<!-- <div class="hx-mt-6 hx-mb-12">
 {{< hextra/hero-subtitle >}}
 <p style="color: rgba(1, 107, 230); font-size: 20px;">
   Applied Statistics & Stochastics
 </p>
 {{< /hextra/hero-subtitle >}}
-</div>
+</div> -->
 
 <div class="hx:mt-6"></div>
 

@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joanna Zou – </title>
-    <link>https://example.org/</link>
+    <link>https://joannajzou.github.io/</link>
     <description>Recent content on Joanna Zou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Oct 2025 15:44:54 -0400</lastBuildDate>
     
-	  <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://joannajzou.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
       
