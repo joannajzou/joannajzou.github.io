@@ -1,0 +1,58 @@
+<!-- layouts/partials/cite-modal.html -->
+<a href="#" id="cite-link" class="text-blue-600 hover:underline">Cite this page</a>
+
+<!-- Modal -->
+<div id="cite-modal"
+     class="hidden fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50">
+  <div class="bg-white rounded-2xl shadow-xl p-6 w-96 relative">
+    <button id="close-cite"
+            class="absolute top-2 right-2 text-gray-400 hover:text-gray-700 text-2xl leading-none">
+      &times;
+    </button>
+
+    <h2 class="text-lg font-semibold mb-3">Cite this page (BibTeX)</h2>
+
+    <pre id="bibtex"
+         class="bg-gray-100 rounded-lg p-3 text-sm font-mono whitespace-pre-wrap overflow-x-auto"></pre>
+
+    <button id="copy-bibtex"
+            class="mt-4 w-full py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition">
+      Copy to Clipboard
+    </button>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const citeLink = document.getElementById("cite-link");
+  const modal = document.getElementById("cite-modal");
+  const closeBtn = document.getElementById("close-cite");
+  const copyBtn = document.getElementById("copy-bibtex");
+  const bibtexEl = document.getElementById("bibtex");
+
+  // Generate BibTeX dynamically using Hugo template variables
+  const bibtex = `@misc{${{ .Title | urlize }},
+  author       = {${{ .Site.Params.author | default "Unknown Author" }}},
+  title        = {${{ .Title }}},
+  year         = {${{ .Date.Format "2006" }}},
+  howpublished = {\\url{${{ .Permalink }}}}
+}`;
+
+  bibtexEl.textContent = bibtex;
+
+  citeLink.addEventListener("click", (e) => {
+    e.preventDefault();
+    modal.classList.remove("hidden");
+  });
+
+  closeBtn.addEventListener("click", () => {
+    modal.classList.add("hidden");
+  });
+
+  copyBtn.addEventListener("click", () => {
+    navigator.clipboard.writeText(bibtexEl.textContent);
+    copyBtn.textContent = "Copied!";
+    setTimeout(() => (copyBtn.textContent = "Copy to Clipboard"), 2000);
+  });
+});
+</script>

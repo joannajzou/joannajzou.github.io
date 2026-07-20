@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2025-10-23T15:44:54-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/papers/</loc>
+    <lastmod>2025-10-23T15:44:54-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/projects/windturbine/</loc>
+  </url><url>
+    <loc>https://example.org/projects/cesmix/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/projects/seismic/</loc>
+  </url><url>
+    <loc>https://example.org/projects/pbee/</loc>
+  </url><url>
+    <loc>https://example.org/projects/croptype/</loc>
+  </url><url>
+    <loc>https://example.org/projects/dimred/</loc>
+  </url><url>
+    <loc>https://example.org/projects/golearn/</loc>
+  </url><url>
+    <loc>https://example.org/projects/soc/</loc>
+  </url><url>
+    <loc>https://example.org/projects/skmd/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url><url>
+    <loc>https://example.org/projects/dpp/</loc>
+  </url>
+</urlset>

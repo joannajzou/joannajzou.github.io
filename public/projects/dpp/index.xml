@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joanna Zou – Training Set Selection by Determinantal Point Processes</title>
+    <link>https://example.org/projects/dpp/</link>
+    <description>Recent content in Training Set Selection by Determinantal Point Processes on Joanna Zou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://example.org/projects/dpp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

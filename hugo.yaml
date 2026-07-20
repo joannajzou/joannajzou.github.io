@@ -1,0 +1,78 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Joanna Zou
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
+
+menu:
+  main:
+    - name: Papers and Presentations
+      pageRef: /papers
+      weight: 1
+    - name: CV
+      pageRef: /resume
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: Theme Toggle
+      params:
+        type: theme-toggle
+        label: false # optional, default is false
+    - name: Language Switcher
+      params:
+        type: language-switch
+        label: true # optional, default is false
+        icon: "globe-alt" # optional, default is "translate"
+    # - name: GitHub
+    #   weight: 5
+    #   url: "https://github.com/imfing/hextra"
+    #   params:
+    #     icon: github
+
+
+params:
+  # noSidebar: true
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/gaussian.ico
+      dark: images/gaussian.ico
+      link: /
+      width: 16
+      height: 8
+  page:      
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+
+  math:
+    enable: true
+  # banner:
+  #   key: 'announcement-xxx'
+  #   message: |
+  #     🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ["$$", "$$"]]
+          inline: [['\(', '\)'], ["$", "$"]]
+        enable: true
