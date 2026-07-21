@@ -25,5 +25,7 @@ Since forward uncertainty quantification by explicit simulation within Monte Car
 We use **derivative informed subspaces** of infinite-dimensional Hilbert spaces for improving the tractability of uncertainty quantification of path-space observables of SDEs. Derivative informed subspaces are a dimension reduction technique that identifies directions in the parameter space along which a function of interest has the greatest variation. In the infinite-dimensional setting, derivative informed subspaces corresponds to solving for a complete basis of the Hilbert space of drift pertubations which is adapted to an observable, such that we have certified bounds on the error in the reduced order approximation of the observable. The subspace depends on a choice of probability measure on drift perturbations; in this work, we consider Gaussian measures on Hilbert spaces, which are the most widely applied form of probability measure for stochastic processes. We show appropriate conditions on the drift perturbations and path-space observable for the derivative informed subspace to be well-defined in the SDE setting.
 
 
+### Related Papers
 
 
+**J. Zou**, H. C. Lie, Y. Marzouk. "Derivative-informed subspaces for dimension reduction on Hilbert spaces of drift functions of SDEs." *In preparation*.

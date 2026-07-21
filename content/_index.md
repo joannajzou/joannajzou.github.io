@@ -23,23 +23,23 @@ width: full
 {{< /hextra/hero-headline >}}
 </div>
 
-<!-- <div class="hx-mt-6 hx-mb-12">
+<div class="hx-mt-6 hx-mb-12">
 {{< hextra/hero-subtitle >}}
 <p style="color: rgba(1, 107, 230); font-size: 20px;">
-  Applied Statistics & Stochastics
+  Applied Statistics, Stochastics, and ML
 </p>
 {{< /hextra/hero-subtitle >}}
-</div> -->
+</div>
 
 <div class="hx:mt-6"></div>
 
 <div class="hx-mt-6 hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  My research integrates **probabilistic models**, drawing on data from simulations or experiments, with the governing equations of **stochastic dynamical systems** to predict complex phenomena in science and engineering. 
+  My research integrates **machine learning models**, drawing on data from simulations or experiments, with the governing equations of **stochastic dynamical systems** to predict complex phenomena in science and engineering. 
 {{< /hextra/hero-subtitle >}}
 </div>
 
-  <!-- I develop predictive tools for stochastically evolving systems by integrating their **governing dynamical equations** with **probabilistic models**, drawing on data from simulations or experiments.  -->
+
 
 <div class="hx:mt-6"></div>
 
@@ -56,27 +56,9 @@ width: full
 
 
 {{< hextra/feature-grid >}}
-  <!-- {{< hextra/feature-card
-    title="Claude"
-    subtitle="Scalable collaboration platform for Claude."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/card-claude.webp"
-    imageClass="hx-top-[20%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    link=""
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
-  >}}
-  {{< hextra/feature-card
-    title="K3s Cluster"
-    subtitle="High Availability cluster deployed with Ansible."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/card-k3s-cluster.webp"
-    imageClass="hx-top-[20%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    link=""
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
-  >}} -->
   {{< hextra/feature-card
     title="Theory"
-    subtitle="Leveraging tools from **probability, inference and information theory, stochastic analysis, optimization, and operator theory** to develop methods with mathematical guarantees."
+    subtitle="Leveraging tools from **probability, inference and information theory, stochastic analysis, optimization, and operator theory** to formulate methods with mathematical guarantees."
   >}}
   {{< hextra/feature-card
     title="Algorithms"
@@ -84,7 +66,7 @@ width: full
   >}}
   {{< hextra/feature-card
     title="Applications"
-    subtitle="Bringing theory into practice in AI-for-science disciplines such as **optimal control, molecular dynamics, structural dynamics, diffusion models, risk analysis, and digital twins**."
+    subtitle="Bringing theory into practice in AI-for-science disciplines such as **molecular dynamics, structural dynamics, diffusion models, optimal control, risk analysis, and digital twins**."
   >}}
 {{< /hextra/feature-grid >}}
 
@@ -93,9 +75,9 @@ width: full
 
 I am a Postdoctoral Associate at MIT in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu/). In May 2026, I completed my PhD in [Computational Science & Engineering](https://cse.mit.edu/) with a minor in Analysis & Probability in the [Uncertainty Quantification Group](https://uqgroup.mit.edu/home) at MIT, advised by Youssef Marzouk. During my PhD, I was a visiting fellow with the [SFB 1294 Collaborative Research Center for Data Assimilation](https://www.sfb1294.de/) at the University of Potsdam, hosted by Han Cheng Lie, and a PhD research intern in the [Combustion Research Facility at Sandia National Laboratories](https://crf.sandia.gov/), hosted by Habib Najm. 
 
-Prior to starting my PhD in 2022, I was a Fulbright pre-doctoral researcher at TU Delft hosted by Eliz-Mari Lourens and Alice Cicirello. I was a software development associate with the [NHERI Computational Modeling and Simulation Center](https://simcenter.designsafe-ci.org/) and a research intern in the [Advanced Technology & Research team at Arup](https://www.arup.com/en-us/services/specialist-technology-analytics-and-research/). I received my Masters of Science in Structural Engineering from Stanford University, supported by the Stanford School of Engineering Graduate Fellowship, in 2020. I graduated *magna cum laude* with a Bachelors of Science in Civil Engineering and minor in Architecture from Columbia University in 2018. 
+Prior to starting my PhD in 2022, I was a Fulbright pre-doctoral researcher at TU Delft hosted by Eliz-Mari Lourens and Alice Cicirello. Previously, I was a software development associate with the [NHERI Computational Modeling and Simulation Center](https://simcenter.designsafe-ci.org/) and a research intern in the [Advanced Technology & Research team at Arup](https://www.arup.com/en-us/services/specialist-technology-analytics-and-research/). I received my Masters of Science in Structural Engineering from Stanford University, supported by the Stanford School of Engineering Graduate Fellowship, in 2020. I graduated *magna cum laude* with a Bachelors of Science in Civil Engineering and minor in Architecture from Columbia University in 2018. 
 
-With an interdisciplinary background, I am passionate about both fundamental research in mathematics and applied research in a wide range of fields, including AI-driven materials design, climate forecasting, urban sustainability, generative modeling, and decision-making under uncertainty.
+With an interdisciplinary background, I am passionate about fundamental research in mathematics and machine learning as well as applied research in a wide range of fields, including AI-driven materials design, climate forecasting, urban sustainability, generative modeling, and decision-making under uncertainty.
 
 ### Connect
 
@@ -131,31 +113,6 @@ With an interdisciplinary background, I am passionate about both fundamental res
 
 
 
-
-<!-- ## Featured Publications
-
-**J. Zou**, H. C. Lie, Y. Marzouk. "Goal-oriented learning of stochastic dynamical systems using error bounds on path-space observables." *ArXiv Preprint.* 2025.
-{{< badge content="Link" link="" icon="link" color="amber" border=false >}}
-{{< badge content="Cite" link="" icon="share" color="amber" border=false >}}
-
-**J. Zou**, Y. Marzouk. "Data Curation for Machine Learning Interatomic Potentials by Determinantal Point Processes." *ICLR AI4MAT Workshop.* Singapore. 2025.
-{{< badge content="Link" link="https://openreview.net/forum?id=PKGP7tg65A" icon="link" color="amber" border=false >}}
-{{< badge content="Cite" link="papers/citations/2025_iclr.bib" icon="share" color="amber" border=false >}}
-
-**J. Zou**, E. Lourens, A. Cicirello. "Virtual sensing of subsoil strain response in monopile-based offshore
-wind turbines via Gaussian process latent force models." *Mechanical Systems & Signal Processing.* 200 (110488). 2023.
-{{< badge content="Link" link="https://www.sciencedirect.com/science/article/abs/pii/S0888327023003965?via%3Dihub" icon="link" color="amber" border=false >}}
-{{< badge content="Cite" link="papers/citations/2023_mssp.bib" icon="share" color="amber" border=false >}}
-{{< badge content="Code" link="https://github.com/joannajzou/GPLFM" icon="terminal" color="amber" border=false >}}
-
-&nbsp;&nbsp;
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="All Publications" link="papers">}}
-</div> -->
-
-
-
 ## Current Projects
 
 {{< cards cols="2" >}}
@@ -171,10 +128,11 @@ wind turbines via Gaussian process latent force models." *Mechanical Systems & S
 ## Past Projects
 
 {{< cards cols="2" >}}
-<!-- {{< card link="projects/rareevent/" title="Controlled Generative Diffusions for Rare-Event Simulation" image="projects/rareevent/rareevent.png" subtitle="Adjoint matching and diffusion modeling for sequential approaches to rare-event estimation" tag="" tagColor="orange" method="Crop" options="600x q80 webp">}} -->
+{{< card link="projects/rareevent/" title="Controlled Generative Diffusions for Rare Event Simulation" image="projects/rareevent/diffusion.png" subtitle="Adjoint matching and diffusion modeling for sequential approaches to rare event estimation" tag="" tagColor="orange" method="Crop" options="600x q80 webp">}}
 {{< card link="projects/dpp/" title="Training Set Selection by Determinantal Point Processes" image="projects/dpp/dpp.png" subtitle="A probabilistic approach to D-optimal experimental design" tag="" tagColor="orange" method="Crop" options="600x q80 webp">}}
 <!-- {{< card link="projects/cesmix/" title="Adaptive Importance Sampling in Multifidelity Monte Carlo" image="projects/cesmix/cesmix0.png" subtitle="Importance sampling-based control variates for MFMC" tag="" tagColor="orange" method="Crop" options="600x q80 webp">}} -->
 {{< card link="projects/cesmix/" title="Bayesian Methods for Atomistic Modeling of Materials" image="projects/cesmix/cesmix.png" subtitle="Multiscale simulation and uncertainty propagation in computational materials science" tag="" tagColor="orange" method="Crop" options="600x q80 webp">}}
+{{< card link="projects/eigenvalue/" title="Numerical Solutions to Fredholm Integral Eigenvalue Problems" image="projects/eigenvalue/eigvec0.png" subtitle="Nyström and Galerkin projection methods to solving integral eigenvalue problems in KL expansions" tag="" tagColor="orange" method="Crop" options="600x q80 webp">}}
 {{< card link="projects/windturbine/" title="Bayesian Filtering for Digital Twins" image="projects/windturbine/windturbine0.png" subtitle="Robust structural health monitoring via Gaussian process latent force models" tag="" tagColor="purple" method="Crop" options="600x q80 webp">}}
 {{< card link="projects/seismic/" title="Heteroscedastic Gaussian Process Surrogate Modeling" image="projects/seismic/seismic0.png" subtitle="Surrogate modeling for regional-level seismic simulation" tag="" tagColor="purple" method="Resize" options="600x q80 webp">}}
 {{< card link="projects/pbee/" title="High-Performance Computing for Probabilistic Hazard Analysis" image="projects/pbee/pbee.png" subtitle="Risk-informed decision making for natural hazards" tag="" tagColor="orange" method="Resize" options="600x q80 webp">}}

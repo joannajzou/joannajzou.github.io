@@ -47,6 +47,10 @@ Y. Dong, **J. Zou**, J. Liu, J. Fagert, M. Mirshekari, L. Lowes, M. Iammarino, P
 
 ## Talks and Presentations 
 
+
+**"Goal-oriented learning and uncertainty quantification of stochastic differential equations."**  
+MIT Center for the Exascale Simulation of Coupled High Enthalpy Fluid-Structure Interactions (CHEFSI). April 2026. Cambridge, MA. 
+
 **"Dimension reduction on Hilbert spaces of drift functions of SDEs for the uncertainty quantification of path-space observables."**  
 SIAM Conference on Uncertainty Quantification (SIAM UQ). March 2026. Minneapolis, Minnesota.
 
@@ -59,19 +63,25 @@ SIAM Conference on Applications of Dynamical Systems (SIAM DS). May 2025. Denver
 **"Data curation for machine learning interatomic potentials by determinantal point processes."**  
 ICLR Workshop on AI for Accelerated Materials Design. April 2025. Singapore.
 
+**"Using error bounds on molecular properties for goal-oriented learning of machine learning potentials."**  
+MIT Center for the Exascale Simulation of Material Interfaces in Extreme Environments (CESMIX). April 2025. Cambridge, MA.
+
 **"Path space error bounds for the statistical learning of SDEs."**  
 University of Potsdam, Institute for Mathematics. August 2024. Potsdam, Germany.
 
-**"Cairn.jl: Enhanced Sampling for Active Learning."**  
+**"Cairn.jl: Enhanced Molecular Dynamics for Active Learning."**  
 JuliaCon. July 2024. Eindhoven, Netherlands.
 
-**"Active learning of energy-based models by stochastic SVGD."**  
+**"Active learning of energy-based models by stochastic Stein variational gradient descent."**  
 SIAM Conference on Uncertainty Quantification (SIAM UQ). March 2024. Trieste, Italy.
 
-**"An importance sampling approach to gradient-based dimension reduction in stochastic systems."**  
+**"Active subspaces for Bayesian inference of machine learning interatomic potential models."**  
+MIT Center for the Exascale Simulation of Material Interfaces in Extreme Environments (CESMIX). Oct. 2023. Cambridge, MA.
+
+**"Adaptive importance sampling for gradient-based dimension reduction in stochastic systems."**  
 International Conference on Uncertainty Quantification in Computational Science and Engineering (UNCECOMP). June 2023. Athens, Greece.
 
-**"Gaussian process latent force models for virtual sensing of an offshore wind turbine."**  
+**"Gaussian process latent force models for virtual sensing of offshore wind turbines."**  
 European Workshop on Structural Health Monitoring (EWSHM). July 2022. Palermo, Italy.
 
 **"Bayesian modeling and active learning for molecular dynamics: fitting machine learning interatomic potentials to data."**  

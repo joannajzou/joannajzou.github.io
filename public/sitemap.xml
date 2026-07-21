@@ -2,34 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joannajzou.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-23T15:44:54-04:00</lastmod>
   </url><url>
-    <loc>https://joannajzou.github.io/papers/</loc>
+    <loc>http://localhost:1313/resume/</loc>
     <lastmod>2025-10-23T15:44:54-04:00</lastmod>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/windturbine/</loc>
+    <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2025-10-23T15:44:54-04:00</lastmod>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/cesmix/</loc>
+    <loc>http://localhost:1313/projects/windturbine/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/categories/</loc>
+    <loc>http://localhost:1313/projects/cesmix/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/seismic/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/pbee/</loc>
+    <loc>http://localhost:1313/projects/rareevent/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/croptype/</loc>
+    <loc>http://localhost:1313/projects/seismic/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/dimred/</loc>
+    <loc>http://localhost:1313/projects/pbee/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/golearn/</loc>
+    <loc>http://localhost:1313/projects/croptype/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/soc/</loc>
+    <loc>http://localhost:1313/projects/dimred/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/skmd/</loc>
+    <loc>http://localhost:1313/projects/eigenvalue/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/tags/</loc>
+    <loc>http://localhost:1313/projects/golearn/</loc>
   </url><url>
-    <loc>https://joannajzou.github.io/projects/dpp/</loc>
+    <loc>http://localhost:1313/projects/soc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/skmd/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/dpp/</loc>
   </url>
 </urlset>
