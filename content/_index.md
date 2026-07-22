@@ -77,7 +77,7 @@ I am a Postdoctoral Associate at MIT in the [Laboratory for Information & Decisi
 
 Prior to starting my PhD in 2022, I was a Fulbright pre-doctoral researcher at TU Delft hosted by Eliz-Mari Lourens and Alice Cicirello. Previously, I was a software development associate with the [NHERI Computational Modeling and Simulation Center](https://simcenter.designsafe-ci.org/) and a research intern in the [Advanced Technology & Research team at Arup](https://www.arup.com/en-us/services/specialist-technology-analytics-and-research/). I received my Masters of Science in Structural Engineering from Stanford University, supported by the Stanford School of Engineering Graduate Fellowship, in 2020. I graduated *magna cum laude* with a Bachelors of Science in Civil Engineering and minor in Architecture from Columbia University in 2018. 
 
-With an interdisciplinary background, I am passionate about fundamental research in mathematics and machine learning as well as applied research in a wide range of fields, including AI-driven materials design, climate forecasting, urban sustainability, generative modeling, and decision-making under uncertainty.
+With an interdisciplinary background, I am passionate about fundamental research in mathematics and machine learning as well as applied research in a wide range of fields, including AI-driven materials design, climate forecasting, urban sustainability, renewable energy, and decision-making under uncertainty.
 
 ### Connect
 
