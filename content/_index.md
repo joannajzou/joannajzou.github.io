@@ -58,7 +58,7 @@ width: full
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Theory"
-    subtitle="Leveraging tools from **probability, inference and information theory, stochastic analysis, optimization, and operator theory** to formulate methods with mathematical guarantees."
+    subtitle="Leveraging tools from **probability, information theory, stochastic analysis, optimization, and operator theory** to formulate methods with mathematical guarantees."
   >}}
   {{< hextra/feature-card
     title="Algorithms"
@@ -73,11 +73,11 @@ width: full
 
 ## About 
 
-I am a Postdoctoral Associate at MIT in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu/). In May 2026, I completed my PhD in [Computational Science & Engineering](https://cse.mit.edu/) with a minor in Analysis & Probability in the [Uncertainty Quantification Group](https://uqgroup.mit.edu/home) at MIT, advised by Youssef Marzouk. During my PhD, I was a visiting fellow with the [SFB 1294 Collaborative Research Center for Data Assimilation](https://www.sfb1294.de/) at the University of Potsdam, hosted by Han Cheng Lie, and a PhD research intern in the [Combustion Research Facility at Sandia National Laboratories](https://crf.sandia.gov/), hosted by Habib Najm. 
+I am a Postdoctoral Associate at MIT in the [Laboratory for Information & Decision Systems (LIDS)](https://lids.mit.edu/). In May 2026, I completed my PhD in [Computational Science & Engineering](https://cse.mit.edu/) with a minor in Analysis & Probability in the [Uncertainty Quantification Group](https://uqgroup.mit.edu/home) at MIT, advised by Youssef Marzouk. My PhD research developed path space measure-theoretic approaches to the inference and uncertainty quantification of stochastic differential equations (SDEs), motivated by challenges in ML-driven molecular dynamics simulation and generative modeling via controlled diffusions. During my PhD, I was a visiting fellow with the [SFB 1294 Collaborative Research Center for Data Assimilation](https://www.sfb1294.de/) at the University of Potsdam, hosted by Han Cheng Lie, and a PhD research intern in the [Combustion Research Facility at Sandia National Laboratories](https://crf.sandia.gov/), hosted by Habib Najm. 
 
 Prior to starting my PhD in 2022, I was a Fulbright pre-doctoral researcher at TU Delft hosted by Eliz-Mari Lourens and Alice Cicirello. Previously, I was a software development associate with the [NHERI Computational Modeling and Simulation Center](https://simcenter.designsafe-ci.org/) and a research intern in the [Advanced Technology & Research team at Arup](https://www.arup.com/en-us/services/specialist-technology-analytics-and-research/). I received my Masters of Science in Structural Engineering from Stanford University, supported by the Stanford School of Engineering Graduate Fellowship, in 2020. I graduated *magna cum laude* with a Bachelors of Science in Civil Engineering and minor in Architecture from Columbia University in 2018. 
 
-With an interdisciplinary background, I am passionate about fundamental research in mathematics and machine learning as well as applied research in a wide range of fields, including AI-driven materials design, climate forecasting, urban sustainability, renewable energy, and decision-making under uncertainty.
+With an interdisciplinary background, I am passionate about fundamental questions in mathematics and machine learning as well as applied research in a wide range of fields, including AI-driven molecular design, climate forecasting, urban sustainability, renewable energy, and decision-making under uncertainty.
 
 ### Connect
 
@@ -97,13 +97,13 @@ With an interdisciplinary background, I am passionate about fundamental research
 
 | <div style="width:5px"></div> | <div style="width:100px"></div> |            |
 | ----- | ----------- | -----------|
-| {{< icon "document-text" >}} | **May 2026** | Our preprint of "Stein kernelized molecular dynamics for active learning of interatomic potentials" is now on ArXiv. |
-| {{< icon "microphone" >}} | **Apr 2026** | I defended my thesis, "Goal-Oriented Learning of Stochastic Dynamical Systems", for the PhD in Computational Science & Engineering at MIT.  |
+| {{< icon "document-text" >}} | **Dec 2026** | <span style="color:orange">Upcoming!</span> Our paper "[Stein kernelized molecular dynamics for active learning of interatomic potentials](https://arxiv.org/abs/2606.04100)" was accepted to NeurIPS 2026, to be presented in Atlanta, Georgia.  |
+| {{< icon "microphone" >}} | **Nov 2026** | <span style="color:orange">Upcoming!</span> I'll give a talk on "Stein kernelized molecular dynamics for active learning of interatomic potentials" at [Multiscale Materials Modeling (MMM12)](https://www.mmm12.org/) in Jeju, Korea.  |
+| {{< icon "microphone" >}} | **Nov 2026** | <span style="color:orange">Upcoming!</span> I'll give a talk on "Derivative-informed dimension reduction for the uncertainty quantification of path statistics of SDEs" at the [IESC Mathematical and Computational Foundations of Digital Twins Workshop](https://digital-twins.sciencesconf.org/) in Corsica, France.  |
+| {{< icon "document-text" >}} | **May 2026** | Our preprint of "[Stein kernelized molecular dynamics for active learning of interatomic potentials](https://arxiv.org/abs/2606.04100)" is now on ArXiv. |
+| {{< icon "academic-cap" >}} | **Apr 2026** | I defended my thesis, "Goal-Oriented Learning of Stochastic Dynamical Systems", for the PhD in Computational Science & Engineering at MIT.  |
 | {{< icon "microphone" >}} | **Mar 2026** | I gave a talk and co-organized two minisymposia, **Advances in MCMC Sampling Methods** and **UQ for Multiscale Modeling in Computational Chemistry**, at the [SIAM Conference for Uncertainty Quantification](https://www.siam.org/conferences-events/siam-conferences/uq26/) in Minneapolis, MN. |
-| {{< icon "document-text" >}} | **Mar 2026** | Our preprint of "Goal-oriented learning of stochastic differential equations using error bounds on path-space observables" is now on ArXiv. |
-| {{< icon "presentation-chart-line" >}} | **Nov 2025** | I presented a poster on "A goal-oriented loss for learning transition times with machine learning potentials" at the [CoMPASs Workshop](https://icms.ac.uk/activities/workshop/compass-computational-materials-science-and-mathematics-at-the-particle-and-atomistic-scales/) at the International Center for Mathematical Sciences (ICMS) in Edinburgh, UK. |
-| {{< icon "microphone" >}} | **May 2025** | I gave a talk and co-organized a minisymposium, **Learning Dynamical Systems and Their Observable Statistics**, at the [SIAM Conference on Applications of Dynamical Systems](https://www.siam.org/conferences-events/past-event-archive/ds25/) in Denver, CO, along with Matthew Levine and Han Cheng Lie. |
-
+| {{< icon "document-text" >}} | **Mar 2026** | Our preprint of "[Goal-oriented learning of stochastic differential equations using error bounds on path-space observables](https://arxiv.org/abs/2603.20467)" is now on ArXiv. |
 
 <!-- <span style="color:orange">Upcoming!</span> -->
 

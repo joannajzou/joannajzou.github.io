@@ -12,13 +12,13 @@ Authors: **Joanna Zou**, Han Cheng Lie, Youssef Marzouk
 {{< badge content="Link" link="https://arxiv.org/abs/2603.20467" icon="link" color="amber" border=false >}}
 {{< badge content="Cite" link="citations/2026_siam_mms.bib" icon="share" color="amber" border=false >}}
 
+## Published Papers
+
 **"Stein kernelized molecular dynamics for active learning of interatomic potentials."**  
 Authors: **Joanna Zou**, Fraser Birks, Dallas Foster, Youssef Marzouk  
-*Preprint, submitted to NeurIPS.* 2026.  
+*NeurIPS.* 2026.  
 {{< badge content="Link" link="https://arxiv.org/abs/2606.04100" icon="link" color="amber" border=false >}}
 {{< badge content="Cite" link="citations/2026_neurips.bib" icon="share" color="amber" border=false >}}
-
-## Published Papers
 
 **"Data curation for machine learning interatomic potentials by determinantal point processes."**  
 Authors: **Joanna Zou**, Youssef Marzouk  
