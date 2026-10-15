@@ -26,6 +26,6 @@ The accuracy of EBMs depends critically on the quality of the training data: tra
 
 ### Related Papers
 
-**J. Zou**, F. Birks, D. Foster, Y. Marzouk. "Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials." *Preprint, submitted to NeurIPS.* 2026.
+**J. Zou**, F. Birks, D. Foster, Y. Marzouk. "Stein Kernelized Molecular Dynamics for Active Learning of Interatomic Potentials." *Advances in Neural Information Processing Systems (NeurIPS).* 2026.
 {{< badge content="Link" link="https://arxiv.org/abs/2606.04100" icon="link" color="amber" border=false >}}
 {{< badge content="Cite" link="citations/2026_neurips.bib" icon="share" color="amber" border=false >}}

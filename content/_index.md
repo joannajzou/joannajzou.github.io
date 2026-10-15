@@ -25,7 +25,7 @@ width: full
 
 <div class="hx-mt-6 hx-mb-12">
 {{< hextra/hero-subtitle >}}
-<p style="color: rgba(1, 107, 230); font-size: 20px;">
+<p style="color: rgba(30, 140, 150); font-size: 20px;">
   Applied Statistics, Stochastics, and ML
 </p>
 {{< /hextra/hero-subtitle >}}
@@ -58,7 +58,7 @@ width: full
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Theory"
-    subtitle="Leveraging tools from **probability, information theory, stochastic analysis, optimization, and operator theory** to formulate methods with mathematical guarantees."
+    subtitle="Leveraging tools from **probability, information theory, stochastic analysis, dynamical systems, optimization, and operator theory** to formulate methods with mathematical guarantees."
   >}}
   {{< hextra/feature-card
     title="Algorithms"
