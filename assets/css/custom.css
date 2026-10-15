@@ -1,0 +1,63 @@
+/* Accent color: #2aa8a4 (rgb(42, 168, 164)) */
+:root {
+  --accent: #2aa8a4;
+  --accent-hover: #20807d; /* darker shade for hover/focus */
+  --accent-ring: rgba(42, 168, 164, 0.35);
+}
+
+/* ---- Theme primary color (navbar, sidebar, search, etc.) ----
+   Hextra derives every "primary" shade from these three values.
+   Light mode: shade 600 works out to ~#2aa8a4, matching the accent above. */
+:root {
+  --primary-hue: 178deg;
+  --primary-saturation: 60%;
+  --primary-lightness: 46%;
+}
+.dark {
+  --primary-hue: 178deg;
+  --primary-saturation: 58%;
+  --primary-lightness: 55%;
+}
+
+/* ---- Hyperlinks (body content) ---- */
+.content a:not(.not-prose):not([class*="hextra-"]):not(.subheading-anchor),
+.content a:not(.not-prose):not([class*="hextra-"]):not(.subheading-anchor):visited {
+  color: var(--accent) !important;
+  text-decoration-color: var(--accent) !important;
+}
+
+.content a:not(.not-prose):not([class*="hextra-"]):not(.subheading-anchor):hover,
+.content a:not(.not-prose):not([class*="hextra-"]):not(.subheading-anchor):focus {
+  color: var(--accent-hover) !important;
+  text-decoration-color: var(--accent-hover) !important;
+}
+
+/* Keep the link color readable on dark backgrounds */
+html.dark .content a:not(.not-prose):not([class*="hextra-"]):not(.subheading-anchor):hover,
+html.dark .content a:not(.not-prose):not([class*="hextra-"]):not(.subheading-anchor):focus {
+  color: #54c4c0 !important;
+  text-decoration-color: #54c4c0 !important;
+}
+
+/* "Cite this page" link (layouts/partials/cite-modal.html) */
+#cite-link {
+  color: var(--accent) !important;
+}
+#cite-link:hover {
+  color: var(--accent-hover) !important;
+}
+
+/* ---- hextra/hero-button ---- */
+a[class*="hx:bg-primary-600"] {
+  background-color: var(--accent) !important;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+a[class*="hx:bg-primary-600"]:hover {
+  background-color: var(--accent-hover) !important;
+}
+
+a[class*="hx:bg-primary-600"]:focus {
+  --tw-ring-color: var(--accent-ring) !important;
+}

@@ -25,7 +25,7 @@ width: full
 
 <div class="hx-mt-6 hx-mb-12">
 {{< hextra/hero-subtitle >}}
-<p style="color: rgba(30, 140, 150); font-size: 20px;">
+<p style="color: rgba(42, 168, 164); font-size: 20px;">
   Applied Statistics, Stochastics, and ML
 </p>
 {{< /hextra/hero-subtitle >}}
