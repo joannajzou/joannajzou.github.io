@@ -30,9 +30,20 @@ date = 2025-10-23T15:44:54-04:00
 * President of the Columbia chapter of the American Society of Civil Engineers (ASCE), 2017-2018 -->
 
 
-## Awards & Recognition
+## Press
 
-**SFB 1294 Visiting PhD Fellowship** (2024)  
+{{< badge content="Press" link="https://cse.mit.edu/seminars-and-events/aeroastro-cse-phd-thesis-defense-joanna-zou/" icon="arrow-circle-right" >}} **AeroAstro-CSE PhD Thesis Defense: Joanna Zou.** MIT Center for Computational Science & Engineering (2026)
+
+{{< badge content="Press" link="https://news.stanford.edu/stories/2020/07/21-stanford-affiliates-awarded-fulbright-grants" icon="arrow-circle-right" >}} **21 Stanford affiliates awarded Fulbright grants.** Stanford Report (2020)
+
+{{< badge content="Press" link="https://www.thorntontomasettifoundation.org/2018_scholarship_winners/" icon="arrow-circle-right" >}} **2018-19 Scholarship and Fellowship Winners.** Thornton-Tomasetti Foundation (2018)
+
+{{< badge content="Press" link="https://www.som.com/news/som-womens-initiative-hosts-seventh-annual-winter-shadowing-program/" icon="arrow-circle-right" >}} **SOM Women’s Initiative hosts seventh annual winter shadowing program.** Skidmore, Owings & Merrill (2018)
+
+{{< badge content="Press" link="https://nyrej.com/print/34876" icon="arrow-circle-right" >}} **ACEC NY awards scholarships to 24 New York engineering students.** New York Real Estate Journal (2017)
+
+
+<!-- **SFB 1294 Visiting PhD Fellowship** (2024)  
 Funded 3-month research stay at the University of Potsdam Department of Mathematics 
 
 **JuliaCon Young Researchers Grant** (2024)  
@@ -78,4 +89,4 @@ Monetary prize for rising undergraduate students *(1 of 3)*
 **Henry Michel Scholarship** (2015)  
 Financial scholarship for undergraduate studies at Columbia University
 
-<!-- {{< badge content="Press" link="https://news.stanford.edu/stories/2020/07/21-stanford-affiliates-awarded-fulbright-grants" icon="arrow-circle-right" >}}   -->
+{{< badge content="Press" link="https://news.stanford.edu/stories/2020/07/21-stanford-affiliates-awarded-fulbright-grants" icon="arrow-circle-right" >}}   -->
