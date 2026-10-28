@@ -6,6 +6,12 @@ date = 2025-10-23T15:44:54-04:00
 
 ## Preprints
 
+**"Derivative-Informed Dimension Reduction of Stochastic Differential Equations: A Path-Space Sensitivity Approach."**  
+Authors: **Joanna Zou**, Han Cheng Lie, Youssef Marzouk  
+*Preprint.* 2026.  
+{{< badge content="Link" link="https://arxiv.org/abs/2610.33210" icon="link" color="amber" border=false >}}
+{{< badge content="Cite" link="citations/2026_siam_juq.bib" icon="share" color="amber" border=false >}}
+
 **"Goal-oriented learning of stochastic differential equations using error bounds on path-space observables."**  
 Authors: **Joanna Zou**, Han Cheng Lie, Youssef Marzouk  
 *Preprint, submitted to SIAM Journal on Multiscale Modeling and Simulation.* 2026.  
@@ -64,8 +70,6 @@ PhD Thesis, Massachusetts Institute of Technology. 2026.
 
 
 ## Working Papers  (in progress)
-
-**J. Zou**, H. C. Lie, Y. Marzouk. "Derivative-informed subspaces for dimension reduction on Hilbert spaces of drift functions of stochastic differential equations." 
 
 **J. Zou**, L. Richter, Y. Marzouk. "Dimension reduction of learning objectives for stochastic optimal control and diffusion-based sampling." 
 

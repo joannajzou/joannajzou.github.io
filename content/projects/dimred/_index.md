@@ -1,5 +1,5 @@
 +++
-title = 'Low-Rank Structure in Drift Functions of SDEs'
+title = 'Low-Dimensional Structure in Drift Functions of SDEs'
 +++
 
 
@@ -28,4 +28,6 @@ We use **derivative informed subspaces** of infinite-dimensional Hilbert spaces 
 ### Related Papers
 
 
-**J. Zou**, H. C. Lie, Y. Marzouk. "Derivative-informed subspaces for dimension reduction on Hilbert spaces of drift functions of SDEs." *In preparation*.
+**J. Zou**, H. C. Lie, Y. Marzouk. "Derivative-Informed Dimension Reduction of Stochastic Differential Equations: A Path-Space Sensitivity Approach." *Preprint, arXiv:2610.33210*. 2026.
+{{< badge content="Link" link="https://arxiv.org/abs/2610.33210" icon="link" color="amber" border=false >}}
+{{< badge content="Cite" link="citations/2026_siam_juq.bib" icon="share" color="amber" border=false >}}
