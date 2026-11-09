@@ -27,7 +27,7 @@ Authors: **Joanna Zou**, Fraser Birks, Dallas Foster, Youssef Marzouk
 {{< badge content="Link" link="https://arxiv.org/abs/2606.04100" icon="link" color="amber" border=false >}}
 {{< badge content="Cite" link="citations/2026_neurips.bib" icon="share" color="amber" border=false >}}
 {{< badge content="Code" link="https://github.com/Fraser-Birks/skmd-lammps" icon="terminal" color="amber" border=false >}}
-{{< badge content="Data" link="https://zenodo.org/records/24011550" icon="archive-box" color="amber" border=false >}}
+{{< badge content="Data" link="https://zenodo.org/records/24011550" icon="archive" color="amber" border=false >}}
 
 **"Data curation for machine learning interatomic potentials by determinantal point processes."**  
 Authors: **Joanna Zou**, Youssef Marzouk  
